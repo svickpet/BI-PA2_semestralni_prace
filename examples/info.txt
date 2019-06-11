@@ -1,0 +1,14 @@
+
+----------------- Some information ----------------
+-------------------- about game -------------------
+
+This game was made by me. Of course. It is my very
+first text adventure game and the first longer
+text in English. But... I had to choose this
+language because of it doesn't care if the speaker 
+is man or woman or whatever. So it is easier to
+write a game, where you can choose, if you are a
+man or woman. So... please, don't be mad, if some
+sentences will not make sense.
+
+---------------------------------------------------

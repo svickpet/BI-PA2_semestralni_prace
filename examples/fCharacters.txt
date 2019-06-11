@@ -1,0 +1,6 @@
+#id| name | description | health, strength, defence | items | dialogue
+1|LonelyMan|You see a lonely man who wants to talk with you.|100,0,0||1
+2|Enemy|You should fight this enemy.|80,0,0||2
+3|Boss|You definitely shouldn't fight with this enemy.|100,50,50||
+4|Bee|Aaaaaaaaaa...|50,0,0||3
+

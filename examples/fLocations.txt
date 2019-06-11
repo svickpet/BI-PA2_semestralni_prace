@@ -1,0 +1,6 @@
+#1 num|2 name|3 description|4 exits|5 items|6 characters
+1|Preparing Hall|The last safe place. You should pickUp something and then go.|2-out|1,2|
+2|Place in front of the Gate||1-back,4-sunnyPlace|2x4,3x3,4|1,2
+3|Woods|A tree, a tree, a tree, three trees, a tree... And some road. |2-left,4-right|2x4|3,2
+4|Sunny place|Aaaa, my eyes!|2-back,3-woods|3x2|4
+#

@@ -1,0 +1,6 @@
+#number|type|name|description|+-health, strength, defence
+1|weapon|Sword|This sword has never helped to win any fight.|0,+10,+2
+2|consumable|RottenApple|Enjoy... a sick.|-10,0,0
+3|consumable|Apple|Enjoy.|+5,0,0
+4|consumable|Bread||+20,0,0
+
